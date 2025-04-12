@@ -40,6 +40,10 @@ To assist Madhav Store in transforming raw online sales data into actionable bus
 - Cleaned using filters, null value handling, and data transformation techniques
 - Final dataset imported into Power BI for dashboard creation
 
+- # Dashboard Images
+- 
+![Screenshot (9)](https://github.com/user-attachments/assets/92163a28-e900-46c8-926c-e3f64fff4090)
+
 ---
 
 
