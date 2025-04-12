@@ -1,5 +1,6 @@
-#📊 Madhav Store Online Sales Dashboard using Power BI
+##📊 Madhav Store Online Sales Dashboard using Power BI
 This project is a mini-project developed to help Madhav Store, an online retail business in India, track and analyze its sales data using Microsoft Power BI.
+
 
 # 📌 Project Objective
 
