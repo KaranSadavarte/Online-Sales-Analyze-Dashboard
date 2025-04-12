@@ -1,2 +1,10 @@
-# Online-Sales-Analyze-Dashboard
-The objective of this project is to design an interactive dashboard that enables the store owner to visualize online order trends, total revenue, top-performing categories, and customer behavior in a clear and actionable format. The dashboard is built from raw data collected via Google Forms and preprocessed in Google Sheets.
+
+## 📌 Project Objective
+
+To assist Madhav Store in transforming raw online sales data into actionable business insights through an easy-to-use dashboard. The visualizations enable the store owner to track:
+
+- Total revenue
+- Monthly order trends
+- Top-selling categories
+- Product-wise performance
+- Regional sales (if applicable)
