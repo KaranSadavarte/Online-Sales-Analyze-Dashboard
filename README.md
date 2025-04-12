@@ -1,5 +1,5 @@
 
-## 📌 Project Objective
+# 📌 Project Objective
 
 To assist Madhav Store in transforming raw online sales data into actionable business insights through an easy-to-use dashboard. The visualizations enable the store owner to track:
 
